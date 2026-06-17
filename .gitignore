@@ -1,0 +1,17 @@
+# docker image
+*.tar
+
+# backup
+*.bak
+
+# log
+*.log
+
+# env
+.env
+
+# vim
+*.swp
+
+# registry images
+infra/registry/
